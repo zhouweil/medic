@@ -17,9 +17,9 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-    <string>18546306@qq.com</string>
+                <string>cn.com.jingsheng</string>
                 <key>bundle-version</key>
-                <string>1.0</string>
+                <string>3.1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
