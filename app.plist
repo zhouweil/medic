@@ -36,11 +36,11 @@
     <key>bundle-identifier</key>
     <string>cn.com.jinsheng</string>
     <key>bundle-version</key>
-    <string>3.1.0</string>
+    <string>1.1.0</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
-    <string>晋生医务</string>
+    <string>康来</string>
    </dict>
   </dict>
  </array>
